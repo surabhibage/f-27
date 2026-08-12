@@ -1,0 +1,15 @@
+name: Hourly Job Sync
+on:
+  schedule:
+    - cron: '17,47 * * * *'  # This tells GitHub to run this script every hour, on the hour
+  workflow_dispatch: # This allows you to also run it manually if you ever want to
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Sync with Upstream
+        run: |
+          gh repo sync ${{ github.repository }} --branch main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
