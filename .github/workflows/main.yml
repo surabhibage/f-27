@@ -1,7 +1,6 @@
 name: Semi-Hourly Job Sync
 on:
   schedule:
-    # This runs twice an hour, at exactly 17 and 47 minutes past the hour
     - cron: '17,47 * * * *' 
   workflow_dispatch:
 
@@ -11,6 +10,6 @@ jobs:
     steps:
       - name: Sync with Upstream
         run: |
-          gh repo sync ${{ github.repository }} --branch main
+          gh repo sync ${{ github.repository }} --branch dev
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
