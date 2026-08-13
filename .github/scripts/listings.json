@@ -56,24 +56,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Medtronic",
-        "id": "21ea3d17-9d33-4c2d-9a49-b6460fa89fa8",
-        "title": "Technician 1",
-        "active": false,
-        "date_updated": 1765872237,
-        "date_posted": 1765872237,
-        "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Fort-Worth-Texas-United-States-of-America/Technician-I_R50672-2",
-        "locations": [
-            "Fort Worth, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Medtronic",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "Safelite",
         "id": "3775dbc6-90f2-4798-b66d-2bd95e9efaf2",
         "title": "Auto Glass Technician Trainee",
@@ -130788,7 +130770,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -130808,7 +130790,7 @@
         "company_name": "Avnet",
         "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773962352,
         "date_posted": 1773962352,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -298408,7 +298390,7 @@
         "company_name": "Goldman Sachs",
         "id": "278f5a44-d443-44e9-ad2f-01b560786f6e",
         "title": "Quantitative Strategist Associate - Core Planning and Analysis Strats",
-        "active": true,
+        "active": false,
         "date_updated": 1784038481,
         "date_posted": 1782338845,
         "url": "https://higher.gs.com/roles/176151",
@@ -362023,7 +362005,7 @@
         "company_name": "Rocket Companies",
         "id": "f9ae5e13-afac-44bd-b3ec-97f32c4c40d8",
         "title": "Machine Learning Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1786487722,
         "date_posted": 1786406400,
         "url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Lake-Vista-TX/Machine-Learning-Engineer-I_R-084092",
@@ -366753,6 +366735,107 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "fd2da7af-12c7-411b-8654-f9d2404b96af",
+        "title": "Data Science Graduate - Advertisement Team",
+        "active": true,
+        "date_updated": 1786613041,
+        "date_posted": 1786613022,
+        "url": "https://lifeattiktok.com/search/7673232905797880069",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Applied Materials",
+        "id": "495c218f-20df-48c5-baef-1726f57e1d01",
+        "title": "Software Engineer New Grad - DevOps",
+        "active": true,
+        "date_updated": 1786612676,
+        "date_posted": 1786579200,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Software-Engineer--DevOps---New-College-Grad---Bachelor-s--Gloucester--MA-_R2625762",
+        "locations": [
+            "Gloucester, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "823dc91a-f895-469a-b516-b3be2e1894e7",
+        "title": "Software Engineer Graduate - Recommendation Infrastructure",
+        "active": true,
+        "date_updated": 1786612321,
+        "date_posted": 1786612220,
+        "url": "https://lifeattiktok.com/search/7673284715407886597",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Illumina",
+        "id": "27789793-6af1-43b7-9cd5-e384f26e6e66",
+        "title": "Systems Integration Engineer 1",
+        "active": true,
+        "date_updated": 1786612432,
+        "date_posted": 1786579200,
+        "url": "https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---California---San-Diego/Systems-Integration-Engineer-1_43230-JOB",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Illumina",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "495ef837-6877-48bd-9606-a506661f9f5c",
+        "title": "Data Scientist Graduate - Multimedia",
+        "active": true,
+        "date_updated": 1786612321,
+        "date_posted": 1786612218,
+        "url": "https://lifeattiktok.com/search/7670288355678177589",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
