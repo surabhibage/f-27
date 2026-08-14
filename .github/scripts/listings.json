@@ -54,309 +54,6 @@
         "degrees": []
     },
     {
-        "date_updated": 1766006588,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://jda.wd5.myworkdayjobs.com/en-US/university/job/Dallas/Software-Engineer-I_253496",
-        "company_name": "Blue Yonder",
-        "title": "Software Engineer I",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "98fbe8e4-ac09-4e5b-bd96-550842b9eab1",
-        "date_posted": 1765987734,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1766718336,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "degrees": [],
-        "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/HCA44-2006-E-El-Segundo-Blvd-BldgE04-2006-East-El-Segundo-Boulevard-Building-E04-El-Segundo-CA-90245-USA/Software-Engineer-I--Onsite-_01813181",
-        "company_name": "RTX",
-        "title": "Software Engineer I (Onsite)",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "1b2b7eb0-c939-45c6-a572-37a9ab36a65c",
-        "date_posted": 1765987945,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1766399636,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://career-schwab.icims.com/jobs/117865/associate-analyst%2c-quantitative-investment-research/job",
-        "company_name": "Charles Schwab",
-        "title": "Associate Analyst, Quantitative Investment Research",
-        "locations": [
-            "Westlake, TX",
-            "Raleigh, NC"
-        ],
-        "category": "Quantitative Finance",
-        "source": "AlmondCroffle",
-        "id": "628cabf9-4a22-42b0-8b3f-34eb927752a7",
-        "date_posted": 1765988317,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Shield AI",
-        "id": "616cda01-dd3d-4b6d-b1c2-fa536ab45cf4",
-        "title": "Electrical Test and Rapid Prototype Engineer",
-        "active": false,
-        "date_updated": 1765988312,
-        "date_posted": 1765988312,
-        "url": "https://jobs.lever.co/shieldai/111b6b5d-debc-4c39-abac-3aa43e723b27/apply",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Shield-AI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "JP Morgan Chase",
-        "id": "14d1a8fb-7dea-42f3-867d-6bcc6fc421e9",
-        "title": "Quantitative Research - Data Analytics - Analyst",
-        "active": false,
-        "date_updated": 1765988349,
-        "date_posted": 1765988349,
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210678649",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Tradeweb",
-        "id": "08d901fc-771e-4d36-87a0-aeb70718cc92",
-        "title": "Product Implementation",
-        "active": false,
-        "date_updated": 1765987619,
-        "date_posted": 1765987619,
-        "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301522",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Tradeweb",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "c74d9180-1670-47ee-8d8e-734b09ae7e16",
-        "title": "Product Test Development Graduate Engineer - GDP",
-        "active": false,
-        "date_updated": 1765988367,
-        "date_posted": 1765988367,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/GBR02-Glenrothes-Scotland-Queensway-Industrial-Estate-Glenrothes-KY7-5PY/Product-Test-Development-Graduate-Engineer--GDP---September-2026-Start-_01812628",
-        "locations": [
-            "Edinburgh, UK",
-            "Livingston, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Moog ",
-        "id": "9e95a192-1ba6-4c24-89fa-54379ea7294c",
-        "title": "Associate Product Engineer",
-        "active": false,
-        "date_updated": 1765988369,
-        "date_posted": 1765988369,
-        "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Associate-Product-Engineer_R-25-15337",
-        "locations": [
-            "Buffalo, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Moog",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "IEM",
-        "id": "a7760c0f-ce42-421a-bfa4-fe4b3e5c3016",
-        "title": "Senior Product Engineer",
-        "active": false,
-        "date_updated": 1765988619,
-        "date_posted": 1765988619,
-        "url": "https://job-boards.greenhouse.io/industrialelectricmanufacturing/jobs/4086436009",
-        "locations": [
-            "Fremont, CA",
-            "Franklin, TN",
-            "Tualatin, OR",
-            "Jacksonville, FL",
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/IEM",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Jabil",
-        "id": "1b5c0109-f01f-425b-bf1f-d5912fb5f059",
-        "title": "Configuration Management Analyst",
-        "active": false,
-        "date_updated": 1765990293,
-        "date_posted": 1765990293,
-        "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Auburn-Hills-MI/Configuration-Management-Analyst_J2428597",
-        "locations": [
-            "Auburn Hills, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Jabil",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Apex Fintech Solutions",
-        "id": "6452f602-d657-4666-8dbf-5aded3ef09fc",
-        "title": "Software Engineer 1 - Java",
-        "active": false,
-        "date_updated": 1765988725,
-        "date_posted": 1765988725,
-        "url": "https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Software-Engineer-I--Java-_JR104034",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Apex-Fintech-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Centene",
-        "id": "f7184af5-014f-4f30-ad43-2e1f7cff174b",
-        "title": "Provider Data Management Analyst 1",
-        "active": false,
-        "date_updated": 1765989269,
-        "date_posted": 1765989269,
-        "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Provider-Data-Management-Analyst-I_1623950",
-        "locations": [
-            "Missouri"
-        ],
-        "company_url": "https://simplify.jobs/c/Centene",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "55f8b148-a149-452b-9895-9c74e1d9f846",
-        "title": "Trading Assistant - Local",
-        "active": false,
-        "date_updated": 1765988807,
-        "date_posted": 1765988807,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043429",
-        "locations": [
-            "United Kingdom"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Northrop Grumman",
-        "id": "4b446b39-8677-4bcb-9005-94e7620efe2b",
-        "title": "Data Engineer - People Analytics",
-        "active": false,
-        "date_updated": 1765989916,
-        "date_posted": 1765989916,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Unknown-City/Data-Engineer-2-3---People-Analytics_R10217513",
-        "locations": [
-            "Virginia"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "IEM",
-        "id": "a3d99d50-18bc-40a9-8293-7ecc931ab16b",
-        "title": "Senior Product Engineer",
-        "active": false,
-        "date_updated": 1765988614,
-        "date_posted": 1765988614,
-        "url": "https://job-boards.greenhouse.io/industrialelectricmanufacturing/jobs/4086419009",
-        "locations": [
-            "Fremont, CA",
-            "Remote in USA",
-            "Franklin, TN",
-            "Tualatin, OR",
-            "Jacksonville, FL",
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/IEM",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Perle",
-        "id": "6d46561b-2664-4677-b8f3-c9bc940c5606",
-        "title": "Arabic Language Specialist",
-        "active": false,
-        "date_updated": 1765988348,
-        "date_posted": 1765988348,
-        "url": "https://ats.rippling.com/perle/jobs/e8cb67a6-f419-49c3-a122-9cb9da12d4da",
-        "locations": [
-            "Arizona"
-        ],
-        "company_url": "https://simplify.jobs/c/Perle",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "Agilent Technologies",
@@ -2935,24 +2632,6 @@
             "Colorado"
         ],
         "company_url": "https://simplify.jobs/c/Astreya",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Blue Origin",
-        "id": "1cadf152-9616-47a9-b59f-5a7d4c1dcd1f",
-        "title": "Technician - Assembly & Integration - Gs2','All Levels/Off Shifts','Evergreen",
-        "active": false,
-        "date_updated": 1765987631,
-        "date_posted": 1765987631,
-        "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Space-Coast-FL/Technician---GS2-Final-Integration---All-Levels---Off-Shifts_R57720",
-        "locations": [
-            "Florida"
-        ],
-        "company_url": "https://simplify.jobs/c/Blue-Origin",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -9578,24 +9257,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Axis Automation",
-        "id": "67694007-fa7e-43a8-85b0-7a3eae7efe01",
-        "title": "Controls Electrician",
-        "active": false,
-        "date_updated": 1765989964,
-        "date_posted": 1765989964,
-        "url": "https://job-boards.greenhouse.io/axiscompany/jobs/8343454002",
-        "locations": [
-            "Grand Rapids, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Axis-Automation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "Dave & Busters",
         "id": "de07b231-7cfb-49cd-8fe0-38bf80b567cd",
         "title": "Gaming Support Technician",
@@ -9898,24 +9559,6 @@
             "Charleston, WV"
         ],
         "company_url": "https://simplify.jobs/c/TC-Energy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "8de22862-f383-4ebe-bfaf-badf9b70fa72",
-        "title": "Graduate Systems Engineer - Gdp - September 2026 Start",
-        "active": false,
-        "date_updated": 1765988349,
-        "date_posted": 1765988349,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/GBR01Harlow-Essex-Kao-One-Kao-Park-Harlow-CM17-9NA/Graduate-Systems-Engineer--GDP---September-2026-Start-_01809747",
-        "locations": [
-            "Harlow, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -10335,24 +9978,6 @@
             "Liberty Lake, WA"
         ],
         "company_url": "https://simplify.jobs/c/OpenEye",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "NV5 Global",
-        "id": "08d43e32-543b-493a-8590-268969902af1",
-        "title": "Geospatial Technician - 3D Stereo Compilation",
-        "active": false,
-        "date_updated": 1767396380,
-        "date_posted": 1765989081,
-        "url": "https://careers-nv5.icims.com/jobs/11605/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Dulles, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/NV5-Global",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -102943,30 +102568,6 @@
             "Bachelor's",
             "Master's",
             "Certificate"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "IEM",
-        "id": "8c71ab38-1caa-49fc-86fb-36678f5a66fc",
-        "title": "Senior Product Engineer",
-        "active": false,
-        "date_updated": 1765988615,
-        "date_posted": 1765988615,
-        "url": "https://job-boards.greenhouse.io/industrialelectricmanufacturing/jobs/4086437009",
-        "locations": [
-            "Franklin, TN",
-            "Fremont, CA",
-            "Tualatin, OR",
-            "Vancouver, BC, Canada",
-            "Jacksonville, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/IEM",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -260800,7 +260401,7 @@
         "company_name": "Citi",
         "id": "84fa0a5f-8366-48f2-9718-6823090c9978",
         "title": "Digital Software Engineering Intern",
-        "active": true,
+        "active": false,
         "date_updated": 1781736025,
         "date_posted": 1781734512,
         "url": "https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Digital-S-W-Engineer-Intm-Analyst-Officer--Irving-_26956642",
@@ -332585,7 +332186,7 @@
         "company_name": "Funding Circle",
         "id": "a90bb128-97cc-48c9-9c10-a4ab6237143d",
         "title": "Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1785424501,
         "date_posted": 1785421312,
         "url": "https://jobs.ashbyhq.com/fundingcircle/d0c854c2-5b2f-42a2-bbf9-2f1e2ec1367d/application?embed=true",
@@ -359279,7 +358880,7 @@
         "company_name": "PGIM",
         "id": "e19fe3b7-632c-42e1-8b02-da2de0de9cf4",
         "title": "Investment Analyst - Credit",
-        "active": true,
+        "active": false,
         "date_updated": 1786468934,
         "date_posted": 1786406400,
         "url": "https://pru.wd5.myworkdayjobs.com/pgim_careers/job/London-United-Kingdom/PGIM-Credit---Investment-Analyst_R-124757",
