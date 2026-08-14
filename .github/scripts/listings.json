@@ -129114,7 +129114,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -129134,7 +129134,7 @@
         "company_name": "Avnet",
         "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773962352,
         "date_posted": 1773962352,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -267765,7 +267765,7 @@
         "company_name": "TikTok",
         "id": "504f0b08-afb2-4964-b3cd-5dee1937b1ad",
         "title": "Frontend Software Engineer - Global CRM Platform",
-        "active": true,
+        "active": false,
         "date_updated": 1781504821,
         "date_posted": 1781503901,
         "url": "https://lifeattiktok.com/search/7104433489986734350",
@@ -294367,7 +294367,7 @@
         "company_name": "Akuna Capital University",
         "id": "5ea8412e-6f15-4f24-b9a2-a32f48b02a27",
         "title": "Software Engineer - Python",
-        "active": true,
+        "active": false,
         "date_updated": 1783981441,
         "date_posted": 1783980578,
         "url": "https://www.akunacapital.com/careers/job/8013230/?gh_jid=8013230",
@@ -320465,7 +320465,7 @@
         "company_name": "L3Harris Technologies",
         "id": "57f0e201-e032-474d-934d-e7422d7e2605",
         "title": "Associate Image Science Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1784844682,
         "date_posted": 1784844258,
         "url": "https://jobs.l3harris.com/job/Rochester-Associate,-Image-Science-Engineering-NY-14606/1411981100/?ats=successfactors",
@@ -344285,7 +344285,7 @@
         "company_name": "Dentsu",
         "id": "41dcbd2d-ff0f-4725-8209-42186f975167",
         "title": "Analyst Customer Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1785796285,
         "date_posted": 1785715200,
         "url": "https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/USA---Remote---Maryland/Analyst--Customer-Analytics_R1128737",
@@ -345328,7 +345328,7 @@
         "company_name": "TikTok",
         "id": "52fd78c7-1550-4616-9097-1c380e47fb86",
         "title": "Machine Learning Engineer Graduate - Monetization Technology-Ads Core Global",
-        "active": false,
+        "active": true,
         "date_updated": 1785835765,
         "date_posted": 1785835220,
         "url": "https://lifeattiktok.com/search/7668809845088504117",
@@ -352236,7 +352236,7 @@
         "company_name": "Agilent Technologies",
         "id": "388f348c-db23-47db-9a4e-1a0ad19b9675",
         "title": "Field Service Engineer - HPLC/GC",
-        "active": true,
+        "active": false,
         "date_updated": 1786065545,
         "date_posted": 1785974400,
         "url": "https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/US-OH-Cleveland/Field-Service-Engineer---HPLC-GC_4038818-2",
@@ -356875,7 +356875,7 @@
         "company_name": "Citi",
         "id": "d05587df-f19a-4da4-b02d-027e77011f10",
         "title": "Services Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1786400754,
         "date_posted": 1786320000,
         "url": "https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Services--Full-Time-Analyst--New-York-City---US--2027_26979922",
@@ -357208,7 +357208,7 @@
         "company_name": "RTX",
         "id": "1b88a527-7b87-4916-8908-bb437e290400",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1786400349,
         "date_posted": 1786320000,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-I--Onsite-_01863755",
@@ -360734,7 +360734,7 @@
         "company_name": "PathAI",
         "id": "4e2d4aa8-3825-4d49-bb96-d3194a6ced1f",
         "title": "Software Engineer 1 - Fullstack",
-        "active": true,
+        "active": false,
         "date_updated": 1786487473,
         "date_posted": 1786487003,
         "url": "https://www.pathai.com/careers/8696764002?gh_jid=8696764002",
@@ -361686,7 +361686,7 @@
         "company_name": "D.R. Horton",
         "id": "66396035-7ef7-4576-a4e0-7487fd68616c",
         "title": "Application Developer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1786505641,
         "date_posted": 1786505432,
         "url": "https://drhorton.taleo.net/careersection/2/jobdetail.ftl?job=2603801",
@@ -365127,7 +365127,7 @@
         "company_name": "Illumina",
         "id": "27789793-6af1-43b7-9cd5-e384f26e6e66",
         "title": "Systems Integration Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1786612432,
         "date_posted": 1786579200,
         "url": "https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---California---San-Diego/Systems-Integration-Engineer-1_43230-JOB",
@@ -368976,6 +368976,146 @@
             "Des Moines, IA"
         ],
         "company_url": "https://simplify.jobs/c/Vertiv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Onto Innovation",
+        "id": "24d6ae94-3ca2-4be2-b7d5-8b823f2f7881",
+        "title": "Senior Applications Scientist",
+        "active": true,
+        "date_updated": 1786699621,
+        "date_posted": 1782558364,
+        "url": "https://onto.wd1.myworkdayjobs.com/onto_careers/job/Hwasung-Korea/Senior-Applications-Scientist_R-5911",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Onto-Innovation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "47a11f8e-c096-4cad-ba59-7807a675d2c7",
+        "title": "Software Engineer Graduate - Media Engine",
+        "active": true,
+        "date_updated": 1786698722,
+        "date_posted": 1786698611,
+        "url": "https://lifeattiktok.com/search/7673667938889009461",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "99d4157b-10cb-42d0-88ff-db290cc271f9",
+        "title": "Backend Software Engineer Graduate - Creation Platform",
+        "active": true,
+        "date_updated": 1786698722,
+        "date_posted": 1786698606,
+        "url": "https://lifeattiktok.com/search/7673669198965278981",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ByteDance",
+        "id": "15d7c999-27e0-4216-a992-2ab4567f9cd7",
+        "title": "ASIC Design Engineer Graduate - Video Silicon IP",
+        "active": true,
+        "date_updated": 1786699981,
+        "date_posted": 1786699864,
+        "url": "https://jobs.bytedance.com/en/position/7673667614757374213/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "AMD",
+        "id": "38d8a04a-361e-4f3a-af46-f7fc11fbc06b",
+        "title": "Design Verification Engineer",
+        "active": true,
+        "date_updated": 1786700521,
+        "date_posted": 1785645097,
+        "url": "https://careers.amd.com/jobs/88877?icims=1",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/AMD",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "IQVIA",
+        "id": "3edfca68-dc57-4ab9-86ba-11349878b84c",
+        "title": "Medtech Field Service Technician",
+        "active": true,
+        "date_updated": 1786701797,
+        "date_posted": 1781360499,
+        "url": "https://iqvia.wd1.myworkdayjobs.com/en-US/IQVIA/job/Pocatello-ID/MedTech-Field-Service-Technician---On-Call---Per-Diem---Pocatello-Idaho-Falls--ID_R1541730",
+        "locations": [
+            "Idaho Falls, ID",
+            "Pocatello, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/IQVIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Specialisterne",
+        "id": "5b674a3d-2969-4edf-8ebb-b2980f9a66db",
+        "title": "IT & Artificial Intelligence Fundamentals - Academy",
+        "active": true,
+        "date_updated": 1786703266,
+        "date_posted": 1785738224,
+        "url": "https://specialisterne.applytojob.com/apply/l7VrTDSZmZ/Specialisterne-USA-Academy",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Specialisterne",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
