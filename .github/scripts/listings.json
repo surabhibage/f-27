@@ -55,141 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Carnegie Mellon University",
-        "id": "83de97a1-2d42-49ee-8c67-b93d764d2b8b",
-        "title": "Research Associate - College of Engineering - Electrical and Computer Engineering",
-        "active": false,
-        "date_updated": 1765931881,
-        "date_posted": 1765931881,
-        "url": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Associate---College-of-Engineering---Electrical-and-Computer-Engineering_2023997",
-        "locations": [
-            "Pittsburgh, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Carnegie-Mellon-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Amazon",
-        "id": "52768ce8-4a75-4187-b18e-8fa140972949",
-        "title": "Agentic AI Teacher - AGI Data Services",
-        "active": false,
-        "date_updated": 1765937654,
-        "date_posted": 1765937654,
-        "url": "https://amazon.jobs/en/jobs/3110653/agentic-ai-teacher-agi-data-services",
-        "locations": [
-            "Boston, MA",
-            "Bellevue, WA",
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Zions Bank",
-        "id": "54bf44c6-a20e-45af-970a-f6e55605310c",
-        "title": "Enterprise Data Analyst",
-        "active": false,
-        "date_updated": 1765937966,
-        "date_posted": 1765937966,
-        "url": "https://zionsbancorp.taleo.net/careersection/joinexternalmobile/jobdetail.ftl?job=069070",
-        "locations": [
-            "Salt Lake City, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Zions-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "NVIDIA",
-        "id": "dc799011-53dd-40eb-a0b4-033ea01b7cb4",
-        "title": "Research Scientist New College Grad - ML Systems",
-        "active": false,
-        "date_updated": 1765938334,
-        "date_posted": 1765938334,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--ML-Systems---New-College-Grad-2026_JR2010161",
-        "locations": [
-            "Seattle, WA",
-            "Austin, TX",
-            "Santa Clara, CA",
-            "Westford, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Microchip Technology",
-        "id": "d33a4313-f7fb-4bba-900f-667914ffc31b",
-        "title": "Verification Engineer 1",
-        "active": false,
-        "date_updated": 1765939258,
-        "date_posted": 1765939258,
-        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/Canada---Burnaby/Verification-Engineer-I_R2479-25",
-        "locations": [
-            "Saskatoon, SK, Canada",
-            "Burnaby, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Microchip-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Microchip Technology",
-        "id": "cc54a7db-7c30-4e54-b421-f6a26d22ca0e",
-        "title": "Design Engineer 1",
-        "active": false,
-        "date_updated": 1765939256,
-        "date_posted": 1765939256,
-        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/Canada---Burnaby/Design-Engineer-I_R2477-25",
-        "locations": [
-            "Saskatoon, SK, Canada",
-            "Burnaby, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Microchip-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "CVS Health",
-        "id": "c327b064-7526-4212-bbf5-82a9712edde9",
-        "title": "Analyst \u2013 Software Development Engineer - Conversion",
-        "active": false,
-        "date_updated": 1765938934,
-        "date_posted": 1765938934,
-        "url": "https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/CT---Work-from-home/Analyst--Software-Development-Engineer--Conversion-_R0777239",
-        "locations": [
-            "Waterbury, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/CVS-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Michael Kors",
         "id": "6ab2c6e3-cccd-47f4-85c3-b0beef145074",
@@ -8934,25 +8799,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "The Boeing Company",
-        "id": "3616f8b2-17da-4478-b31d-35503346b871",
-        "title": "Systems Engineer",
-        "active": false,
-        "date_updated": 1765938978,
-        "date_posted": 1765938978,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Layton-UT/Systems-Engineer--Associate-and-Experienced-Level_JR2025468538-1",
-        "locations": [
-            "Layton, UT",
-            "Hill AFB, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "c9d349f5-26df-45f7-8679-37a18a008f6e",
@@ -9293,24 +9139,6 @@
             "Golden, CO"
         ],
         "company_url": "https://simplify.jobs/c/National-Renewable-Energy-Laboratory",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "RPA",
-        "id": "f2c5d935-32e8-4b15-9ebc-3dd5e946b400",
-        "title": "Process Automation Analyst - AI & Systems Focus",
-        "active": false,
-        "date_updated": 1765939177,
-        "date_posted": 1765939177,
-        "url": "https://job-boards.greenhouse.io/rpa/jobs/4636347005",
-        "locations": [
-            "Santa Monica, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/RPA",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -265761,7 +265589,7 @@
         "company_name": "Quince",
         "id": "37a68980-82f2-4c55-b307-c8baff3b2fb8",
         "title": "Software Development Engineer 2 - Planning and Forecasting",
-        "active": true,
+        "active": false,
         "date_updated": 1782167858,
         "date_posted": 1782166901,
         "url": "https://job-boards.greenhouse.io/quince/jobs/5264916008",
@@ -276358,7 +276186,7 @@
         "company_name": "Moder",
         "id": "4362d7c3-926d-4c79-9b3e-a1bb06ff2d48",
         "title": "Forward Deployed Engineer Fellow",
-        "active": true,
+        "active": false,
         "date_updated": 1782944606,
         "date_posted": 1782943778,
         "url": "https://archwellessentials.wd1.myworkdayjobs.com/modercareers/job/Conshohocken-PA/Forward-Deployed-Engineer-Fellowship_JR107103",
@@ -313339,7 +313167,7 @@
         "company_name": "Applied Materials",
         "id": "aa0755f2-ee8c-468b-975b-1407432d1d7c",
         "title": "Early Career - Installation Team Field Service Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784675178,
         "date_posted": 1782963385,
         "url": "https://amat.wd1.myworkdayjobs.com/External/job/BoiseID/Applied-Early-Career---Installation-Team-Field-Service-Engineer_R2622705",
@@ -337286,7 +337114,7 @@
         "company_name": "Greenheck Group",
         "id": "96be6168-3e02-400e-812d-c2904446ba29",
         "title": "Application Engineer 1/2/Senior",
-        "active": true,
+        "active": false,
         "date_updated": 1785599184,
         "date_posted": 1782511405,
         "url": "https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Tulsa-OK/Application-Engineer-I-II-Sr_JR104029",
@@ -353607,7 +353435,7 @@
         "company_name": "Ensemble Health Partners",
         "id": "199e7d94-1625-41cc-861d-a587e1f7b52e",
         "title": "Associate BI Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1786140901,
         "date_posted": 1786060800,
         "url": "https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Associate-BI-Engineer_R048864",
@@ -355514,7 +355342,7 @@
         "company_name": "Two Sigma",
         "id": "701b131c-8006-40ac-a07c-5d5d37bd080e",
         "title": "Quantitative Researcher - Full-Time Campus Hire",
-        "active": true,
+        "active": false,
         "date_updated": 1786186801,
         "date_posted": 1785633717,
         "url": "https://twosigma.avature.net/careers/JobDetail/13946",
@@ -365643,7 +365471,7 @@
         "company_name": "Zebra Technologies",
         "id": "1bdb364e-aace-4471-b0b1-9ba4a47de7af",
         "title": "Repair Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1786633741,
         "date_posted": 1786579200,
         "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Bentonville-Arkansas/Repair-Technician--I-2nd-Shift-Sun-Thu_JR101934",
