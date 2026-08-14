@@ -54,42 +54,6 @@
         "degrees": []
     },
     {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Michael Kors",
-        "id": "6ab2c6e3-cccd-47f4-85c3-b0beef145074",
-        "title": "Assistant Merchandiser Accessories FTC",
-        "active": false,
-        "date_updated": 1765981561,
-        "date_posted": 1765981561,
-        "url": "https://capri.wd1.myworkdayjobs.com/michael_kors/job/London/Assistant-Merchandiser-FTC_R_781826-1",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Michael-Kors",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Astreya",
-        "id": "5d97d628-594b-413e-8cfe-5b96633029e8",
-        "title": "Fiber Network Mapping Specialist 3",
-        "active": false,
-        "date_updated": 1765981189,
-        "date_posted": 1765981189,
-        "url": "https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CO/Fiber-Network-Mapping-Specialist-III_R0014034",
-        "locations": [
-            "Denver, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Astreya",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "date_updated": 1766006588,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
@@ -326316,7 +326280,7 @@
         "company_name": "Johnson Controls",
         "id": "a86a72df-04d0-4c52-bf2f-71170d986cf4",
         "title": "Software Engineer - Data Center Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1785192339,
         "date_posted": 1781951422,
         "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Glendale-Wisconsin-United-States-of-America/Software-Engineer---Data-Center-Engineering_WD30270944-1",
@@ -348572,7 +348536,7 @@
         "company_name": "Microsoft",
         "id": "deac077f-d2a6-4943-8da6-ef8d52d8c5b5",
         "title": "Data Center Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1785968868,
         "date_posted": 1785968009,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556950893",
@@ -362402,7 +362366,7 @@
         "company_name": "Blue Cross Blue Shield of Michigan",
         "id": "fdbb71b9-2bde-4620-96a8-cf21416b73f0",
         "title": "Analyst Trainee - Analyst Development Program",
-        "active": true,
+        "active": false,
         "date_updated": 1786565809,
         "date_posted": 1786565480,
         "url": "https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14581",
@@ -365388,7 +365352,7 @@
         "company_name": "Renesas Electronics",
         "id": "446febb4-b44b-4e23-bd24-9d5be19954c1",
         "title": "Application Engineer - Performance Computing Power Application Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786630501,
         "date_posted": 1786630390,
         "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000143318619",
@@ -365430,7 +365394,7 @@
         "company_name": "Renesas Electronics",
         "id": "1f8e4468-cfb9-4773-8eff-5deb0dfd3370",
         "title": "AI Compiler Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1786630044,
         "date_posted": 1786629875,
         "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000143317369",
@@ -369139,6 +369103,86 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Level99 Entertainment",
+        "id": "0246d3d7-d3de-4cf6-bc3f-8ac9c5868c4c",
+        "title": "Installer",
+        "active": true,
+        "date_updated": 1786716963,
+        "date_posted": 1786716791,
+        "url": "https://jobs.lever.co/level99/c6d3ef09-d479-420e-b6d6-0cdf1257b6b8/apply",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Level99-Entertainment",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Worldwide TechServices",
+        "id": "bcd85798-b47b-4670-b762-bf7506e5bbba",
+        "title": "Dynamic Server Support",
+        "active": true,
+        "date_updated": 1786716362,
+        "date_posted": 1786716360,
+        "url": "https://jobs.smartrecruiters.com/WorldwideTechServices/744000143520749",
+        "locations": [
+            "Lenexa, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/Worldwide-TechServices",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Worldwide TechServices",
+        "id": "841749f5-2d10-4f3e-8f33-ba6734ab5fac",
+        "title": "Server Support",
+        "active": true,
+        "date_updated": 1786716455,
+        "date_posted": 1786716360,
+        "url": "https://jobs.smartrecruiters.com/WorldwideTechServices/744000143519062",
+        "locations": [
+            "Texarkana, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Worldwide-TechServices",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NVIDIA",
+        "id": "4326baaa-75b2-4470-b205-61aed39b27b9",
+        "title": "Software Engineer New Grad - Deep Learning Libraries",
+        "active": true,
+        "date_updated": 1786718135,
+        "date_posted": 1786665600,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Deep-Learning-Libraries---New-College-Graduate-2026_JR2023252",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
