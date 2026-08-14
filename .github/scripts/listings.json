@@ -129114,7 +129114,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -129134,7 +129134,7 @@
         "company_name": "Avnet",
         "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773962352,
         "date_posted": 1773962352,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -294654,7 +294654,7 @@
         "company_name": "Akuna Capital University",
         "id": "ba5a942e-be3c-493b-9ef4-bf0dbc07a0ce",
         "title": "Entry Level Software Engineer - C++",
-        "active": true,
+        "active": false,
         "date_updated": 1783981337,
         "date_posted": 1783980609,
         "url": "https://www.akunacapital.com/careers/job/8013085/?gh_jid=8013085",
@@ -295325,7 +295325,7 @@
         "company_name": "Akuna Capital University",
         "id": "73cbd0da-d5af-4887-a89e-c404bc218ef3",
         "title": "Junior Trader",
-        "active": true,
+        "active": false,
         "date_updated": 1783982164,
         "date_posted": 1783980602,
         "url": "https://www.akunacapital.com/careers/job/7773141/?gh_jid=7773141",
@@ -296714,7 +296714,7 @@
         "company_name": "Goldman Sachs",
         "id": "278f5a44-d443-44e9-ad2f-01b560786f6e",
         "title": "Quantitative Strategist Associate - Core Planning and Analysis Strats",
-        "active": false,
+        "active": true,
         "date_updated": 1784038481,
         "date_posted": 1782338845,
         "url": "https://higher.gs.com/roles/176151",
@@ -346925,7 +346925,7 @@
         "company_name": "WME Express",
         "id": "7d1a10d2-f0f3-4f21-8d83-ed384211fde0",
         "title": "Vehicle Field Data Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1785882626,
         "date_posted": 1785881744,
         "url": "https://wmeexpress.applytojob.com/apply/CEqvZZtrXw/Vehicle-Field-Data-Technician",
@@ -350591,7 +350591,7 @@
         "company_name": "Barclays",
         "id": "8a717ae4-e44a-4ade-ae84-abbc3d27e232",
         "title": "AI Engineer - Private Bank and Wealth Management",
-        "active": true,
+        "active": false,
         "date_updated": 1786009681,
         "date_posted": 1785974400,
         "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/AI-Engineer_JR-0000113698-1",
@@ -355136,7 +355136,7 @@
         "company_name": "AMAX",
         "id": "ddacec5d-fc6c-4021-afc2-ec6d2ebf5046",
         "title": "Rack and Stack Assembler",
-        "active": true,
+        "active": false,
         "date_updated": 1786151881,
         "date_posted": 1786151810,
         "url": "https://apply.workable.com/amax-1/j/4C6F9441A2/apply",
@@ -355830,7 +355830,7 @@
         "company_name": "ASR INTERNATIONAL",
         "id": "08cca5ea-66d4-4c06-bc78-8aa1c6a832e4",
         "title": "Junior Software Engineer Intern - Instrumentation",
-        "active": true,
+        "active": false,
         "date_updated": 1786342731,
         "date_posted": 1786342615,
         "url": "https://asrinternationalcorp.applytojob.com/apply/nknm2W31uu/SoftwareInstrumentation-Engineer-Junior",
@@ -361468,7 +361468,7 @@
         "company_name": "Microchip Technology",
         "id": "9fbb930f-34ce-45eb-818b-c842d3a2f8c9",
         "title": "Reliability Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1786498224,
         "date_posted": 1786406400,
         "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Engineer-II-Reliability_R3501-26",
@@ -363974,7 +363974,7 @@
         "company_name": "Consumer Direct Care Network",
         "id": "d1775023-8318-4c20-8b84-7725fb52c8a3",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1786584690,
         "date_posted": 1786584511,
         "url": "https://cdcn.avature.net/careers/JobDetail/8611",
@@ -368897,5 +368897,69 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Berkshire Hathaway GUARD Insurance Companies",
+        "id": "4b22d036-3d08-41c6-8c11-48f020f7c545",
+        "title": "Full Stack Developer",
+        "active": true,
+        "date_updated": 1786690081,
+        "date_posted": 1786690075,
+        "url": "https://careers-guard.icims.com/jobs/5913/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Alpharetta, GA",
+            "Scottsdale, AZ",
+            "Parsippany-Troy Hills, NJ",
+            "Conshohocken, PA",
+            "Wilkes-Barre, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Berkshire-Hathaway-GUARD-Insurance-Companies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Intel",
+        "id": "d611c661-e784-4250-b934-764d797a57f1",
+        "title": "SoC Design Verification Engineer",
+        "active": true,
+        "date_updated": 1786690234,
+        "date_posted": 1786579200,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/SoC-Design-Verification-Engineer_JR0286426",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NOV",
+        "id": "709af144-8cf3-4137-b92c-0eac7a9f4e81",
+        "title": "Lifecycle Services Teamcenter Administrator",
+        "active": true,
+        "date_updated": 1786692961,
+        "date_posted": 1786692878,
+        "url": "https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/42922",
+        "locations": [
+            "Aberdeen, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/NOV",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
