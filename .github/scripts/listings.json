@@ -54,24 +54,6 @@
         "degrees": []
     },
     {
-        "date_updated": 1766429677,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [],
-        "url": "https://warnerbros.wd5.myworkdayjobs.com/en-US/global/job/IL-Chicago-2650A-W-Bradley-Place/Associate-Software-Engineer--Temporary-_R000101071",
-        "company_name": "Warner Bros.",
-        "title": "Associate Software Engineer (Temporary)",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "ff557fb7-a47f-4294-b778-3a5306e3c94f",
-        "date_posted": 1766403316,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
         "date_updated": 1771250796,
         "sponsorship": "Offers Sponsorship",
         "active": false,
@@ -342911,7 +342893,7 @@
         "company_name": "NovaTech Automation",
         "id": "e4075fd0-7ff8-4aa9-9fc3-2fce4b096938",
         "title": "Electronics Assembler",
-        "active": true,
+        "active": false,
         "date_updated": 1785921482,
         "date_posted": 1785921361,
         "url": "http://novatechc1.applytojob.com/apply/b63HvfQkCi/Electronics-Assembler",
@@ -348218,7 +348200,7 @@
         "company_name": "Conning",
         "id": "a72088ea-90f0-46d6-9a2d-a7f6f75ff58e",
         "title": "MBS Trader Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1786101251,
         "date_posted": 1785888000,
         "url": "https://conning.wd503.myworkdayjobs.com/conningcareers/job/Hartford-CT/VP--ABS-Trader_JR1123",
@@ -365075,7 +365057,7 @@
         "company_name": "Texas A&M Transportation Institute",
         "id": "ad576150-4c22-44bf-b46a-6721a5cbd8b2",
         "title": "Assistant Transportation Researcher",
-        "active": true,
+        "active": false,
         "date_updated": 1786745341,
         "date_posted": 1786665600,
         "url": "https://tamus.wd1.myworkdayjobs.com/en-US/TTI_External/job/Bryan-TX/Assistant-Transportation-Researcher_R-096230-1",
@@ -365217,7 +365199,7 @@
         "company_name": "Texas A&M University System",
         "id": "b95b5d05-18d0-428b-8bad-3254ed78b9a2",
         "title": "Assistant Transportation Researcher",
-        "active": true,
+        "active": false,
         "date_updated": 1786745341,
         "date_posted": 1786665600,
         "url": "https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/Bryan-TX/Assistant-Transportation-Researcher_R-096230",
@@ -370806,7 +370788,7 @@
         "company_name": "Encova",
         "id": "cc99eb43-48b8-443d-be7a-b621cbef7dcd",
         "title": "Developer - Developer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1787091662,
         "date_posted": 1787011200,
         "url": "https://encova.wd1.myworkdayjobs.com/Search/job/Charleston-WV/Developer_R002016",
@@ -372869,6 +372851,119 @@
         "sponsorship": "Other",
         "degrees": [
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Diebold Nixdorf",
+        "id": "c6d82ee5-5831-4558-af20-96402ae4a4b1",
+        "title": "Junior Field Service Technician - Peterborough",
+        "active": true,
+        "date_updated": 1787139001,
+        "date_posted": 1780322793,
+        "url": "https://eeug.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/18804",
+        "locations": [
+            "Peterborough, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Diebold-Nixdorf",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Aramark",
+        "id": "c8bf57d8-775c-4186-a07d-1779c7f9ce56",
+        "title": "Student Hospitality Manager",
+        "active": true,
+        "date_updated": 1787139243,
+        "date_posted": 1787006853,
+        "url": "https://aramarkcareers.com/UnitedStates/job/Tempe-Student-Manager-Sustainability-Data-Analysis-Arizona-State-University-AZ-85281/1420184000/?ats=successfactors",
+        "locations": [
+            "Tempe, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Aramark",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SAM",
+        "id": "f0a0624c-fb42-416b-bf31-094b5999f772",
+        "title": "Geospatial Field Technician 1",
+        "active": true,
+        "date_updated": 1787140676,
+        "date_posted": 1786680647,
+        "url": "https://careers.sam.biz/jobs/7860?icims=1",
+        "locations": [
+            "Cedar Park, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/SAM",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "VML",
+        "id": "c4983a82-ecd3-4664-bdf1-9f70f774ec87",
+        "title": "Data Catalyst Academy",
+        "active": true,
+        "date_updated": 1787139023,
+        "date_posted": 1786352749,
+        "url": "https://www.vml.com/careers/job/8536498002?gh_jid=8536498002",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/VML",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Honeywell",
+        "id": "f79b166b-afea-4a0b-9644-b397a4fc143e",
+        "title": "Application Engineer 1 - Training - Building Automation - CX Learning & Enablement",
+        "active": true,
+        "date_updated": 1787141038,
+        "date_posted": 1786054436,
+        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/154237",
+        "locations": [
+            "Northford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/Honeywell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Procter & Gamble",
+        "id": "2f40cd6e-8384-4c3f-8dee-e8ef4a5fa827",
+        "title": "Consumer Insights & Data Analytics Manager",
+        "active": true,
+        "date_updated": 1787143196,
+        "date_posted": 1787097600,
+        "url": "https://pg.wd5.myworkdayjobs.com/1000/job/Weybridge/Consumer-Insights---Data-Analytics-Manager--Graduate-_R000157642",
+        "locations": [
+            "London, UK",
+            "Weybridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Procter-Gamble-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
