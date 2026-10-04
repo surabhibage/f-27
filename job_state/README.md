@@ -5,9 +5,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 509 New Grad Roles by Category
+### Browse 507 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (297)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (295)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (12)
 
@@ -588,7 +588,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Platform Full-Stack Engineer New Grad</td>
 <td>Redwood City, CA</td>
 <td><div align="center"><a href="https://c3.ai/job-description/8801434002?gh_jid=8801434002&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/5b834e2d-a5a1-4d8f-8ee7-140bf5cb14c1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>19d</td>
+<td>20d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Scale-AI?utm_source=GHList&utm_medium=company">Scale AI</a></strong></td>
@@ -637,7 +637,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer 1</td>
 <td>Boston, MA</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/klaviyocampus/jobs/7989324003?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/5077be7d-bf97-4e0b-8fad-8674bf28d206?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>21d</td>
+<td>22d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Affirm?utm_source=GHList&utm_medium=company">Affirm</a></strong></td>
@@ -1879,24 +1879,10 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>2mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Citadel?utm_source=GHList&utm_medium=company">Citadel</a></strong></td>
-<td>Software Engineer – University Graduate</td>
-<td><details><summary><strong>4 locations</strong></summary>Greenwich, CT</br>Houston, TX</br>Miami, FL</br>NYC</details></td>
-<td><div align="center"><a href="https://www.citadel.com/careers/details/software-engineer-university-graduate-us/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/410b28b6-b357-4b72-9480-bad83701b4cb?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>3mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Varsity-Brands?utm_source=GHList&utm_medium=company">Varsity Brands</a></strong></td>
 <td>Software Engineer 1</td>
 <td>Memphis, TN</td>
 <td><div align="center"><a href="https://careers.varsitybrands.com/global/en/job/JR113976?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/209fc4a4-5626-4653-baa1-7a5393231ce9?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>3mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Confido?utm_source=GHList&utm_medium=company">Confido</a></strong></td>
-<td>Software Engineer New Grad</td>
-<td>NYC</td>
-<td><div align="center"><a href="https://jobs.ashbyhq.com/confido/69c0e572-b2f4-442f-beb8-1240155c629e/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/00142abd-9aec-4fca-9c8d-b46f6fb762d2?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
 <td>3mo</td>
 </tr>
 <tr>
@@ -2163,7 +2149,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1171)</summary>
+<summary>🗃️ Inactive roles (1173)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -3059,7 +3045,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Honeywell?utm_source=GHList&utm_medium=company">Honeywell</a></strong></td>
+<td>↳</td>
 <td>Software Engineer 1</td>
 <td>Richmond, VA</td>
 <td>🔒</td>
@@ -4522,6 +4508,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>3mo</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Citadel?utm_source=GHList&utm_medium=company">Citadel</a></strong></td>
+<td>Software Engineer – University Graduate</td>
+<td><details><summary><strong>4 locations</strong></summary>Greenwich, CT</br>Houston, TX</br>Miami, FL</br>NYC</details></td>
+<td>🔒</td>
+<td>3mo</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Travelers?utm_source=GHList&utm_medium=company">Travelers</a></strong></td>
 <td>Software Engineer 1</td>
 <td>Hartford, CT</td>
@@ -4623,6 +4616,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/Brain-Corp?utm_source=GHList&utm_medium=company">Brain Corp</a></strong></td>
 <td>Software Engineer 1 - SW Applications</td>
 <td>San Diego, CA</td>
+<td>🔒</td>
+<td>3mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Confido?utm_source=GHList&utm_medium=company">Confido</a></strong></td>
+<td>Software Engineer New Grad</td>
+<td>NYC</td>
 <td>🔒</td>
 <td>3mo</td>
 </tr>
@@ -14720,7 +14720,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Flight Software Engineer 1</td>
 <td>Littleton, CO</td>
 <td>🔒</td>
-<td>19d</td>
+<td>20d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
